@@ -1,0 +1,16 @@
+h1{
+    border:solid black;
+    color: rgb(235, 221, 23);
+    width: 20px;
+    background-color: black;
+}
+body{
+    background: radial-gradient(circle,#eee34e,rgb(186, 236, 243));
+    
+}
+marquee{
+    border: solid rgb(48, 141, 118);
+    
+}
+
+
