@@ -3,6 +3,8 @@ h1{
     color: rgb(235, 221, 23);
     width: 20px;
     background-color: black;
+    margin-left: 50%;
+    margin-right: 50%;
 }
 body{
     background: radial-gradient(circle,#eee34e,rgb(186, 236, 243));
@@ -12,5 +14,10 @@ marquee{
     border: solid rgb(48, 141, 118);
     
 }
-
+h2{
+    margin-left: 20px;
+}
+div{
+    margin-left: 10px;
+}
 
